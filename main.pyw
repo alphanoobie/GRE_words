@@ -18,6 +18,7 @@ words_df = pd.read_csv("./data.csv", index_col="Index", parse_dates=True)
 #Checking if a word for today already exist
 todays_word_row = words_df[words_df['Displayed'] == str(date.today())]
 
+#Function to get today's word and its meaning
 def word_and_meaning():
     todays_word = todays_word_row['Word'].values[0]
     todays_meaning = todays_word_row['Meaning'].values[0]
