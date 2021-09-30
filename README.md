@@ -4,4 +4,4 @@ This code helps you in preparing for GRE and other English exams by selecting a 
 
 It gets information from a pdf called "Barron's GRE High-Frequency 333 Vocabulary List"
 
-All you need to do is download "data.csv" and "main. paw". Add a shortcut of main.pyw to your startup folder.
+All you need to do is download "data.csv" and "main.pyw". Add a shortcut of main.pyw to your startup folder.
